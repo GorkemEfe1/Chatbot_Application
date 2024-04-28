@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chatbot Application</string>
+    <string name="write_here">Write here</string>
+    <string name="hello">Hello</string>
+    <string name="chatbot">ChatBot</string>
+    <string name="chatbt">ChatBot</string>
+    <string name="ChatBot" />
+</resources>
